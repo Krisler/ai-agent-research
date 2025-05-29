@@ -1,1 +1,1 @@
-# ai-agent-research
+# AI-Agent Research & Slide Deck Generator
